@@ -1,0 +1,5 @@
+*.sqlite3
+pipfile
+pipfile.lock
+migrations/
+__pycache__
