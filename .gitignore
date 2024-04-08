@@ -1,5 +1,5 @@
-*.sqlite3
-pipfile
-pipfile.lock
+db.sqlite3
+Pipfile
+Pipfile.lock
 migrations/
 __pycache__
